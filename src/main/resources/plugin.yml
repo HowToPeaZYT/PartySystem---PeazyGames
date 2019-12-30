@@ -1,0 +1,7 @@
+name: PartySystem
+version: 1.0
+description: PartySystem for Waterdog
+author: PeazyGames
+main: ch.party.partysystem.PartySystem
+commands:
+    party:
