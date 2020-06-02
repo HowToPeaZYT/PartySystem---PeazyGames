@@ -1,0 +1,6 @@
+name: PartySystem
+version: 1.0
+main: ch.party.partysystem.PartySystem
+authors:
+  - HowToRushDE
+  - Shadow_1_
